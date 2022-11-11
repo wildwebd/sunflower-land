@@ -1214,7 +1214,7 @@ export const ITEM_DETAILS: Items = {
   },
   "Undead Rooster": {
     image: undeadChicken,
-    description: "A fallen soldier during the war",
+    description: "An unfortunate casualty of the war. 10% increased egg yield.",
   },
 
   "Boiled Eggs": {
